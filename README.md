@@ -10,5 +10,6 @@ A very customizable progress circle indicator
 
 ## Customization 
 You can customize any part of the control. 
+
 ![IBInspectable properties](https://github.com/c-Viorel/MBCircularProgress/blob/master/IBInspectable%20properties.png?raw=true)
 
