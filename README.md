@@ -9,7 +9,7 @@ A very customizable progress circle indicator
 ![Gif presentation](https://github.com/c-Viorel/MBCircularProgress/blob/master/presentation.gif?raw=true)
 
 ## Customization 
-You can customize any part of the control. 
+You can customize any part of the control using @IBInspectable properties.
 
 ![IBInspectable properties](https://github.com/c-Viorel/MBCircularProgress/blob/master/IBInspectable%20properties.png?raw=true)
 
