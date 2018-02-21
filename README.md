@@ -13,3 +13,7 @@ You can customize any part of the control using @IBInspectable properties.
 
 ![IBInspectable properties](https://github.com/c-Viorel/MBCircularProgress/blob/master/IBInspectable%20properties.png?raw=true)
 
+## Developer website
+[Minglebit website](https://minglebit.com)
+
+[OnTime PRO-Ultimate time tool](https://itunes.apple.com/us/app/iclock-pro-the-ultimate-time-tool/id1244748504?ls=1&mt=12)
